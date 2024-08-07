@@ -2,11 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses taught at TU Delft.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Q3: CSE2430 Operating Systems (BSc in Computer Science & Engineering) <br>
+Q3: <a href='https://www.tudelft.nl/en/education/programmes/masters/cs/msc-computer-science/programme/themes/distributed-systems-engineering'> CS4550 Distributed Data Systems </a> (MSc in Computer Science) <br>
+Q4: <a href='https://www.tudelft.nl/en/education/programmes/masters/cs/msc-computer-science/programme/research-course'> CS4725 Research Seminar on Scalable Learning Systems </a> (MSc in Computer Science) <br>
 
-Organize your courses by years, topics, or universities, however you like!
