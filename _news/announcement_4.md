@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Open <a href="https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=18645&jobTitle=PhD%20Position%20Scalable%20Graph%20Learning%20"> PhD position </a> in my research group!
+Open <a href="https://careers.tudelft.nl/job/Delft-PhD-Position-Scalable-Graph-Learning-2628-CD/804744902/"> PhD position </a> in my research group!
