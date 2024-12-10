@@ -17,13 +17,6 @@ profiles:
       <p>Assoc. Prof. Kubilay Atasu</p>
       <p>Group Leader</p>
   - align: left
-    image: Atahan_Akyildiz.jpg
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Atahan Akyıldız</p> <br>
-      <p>PhD student since Mar. 2024</p>
-      <p>MSc in CS, Sabanci Univ., 2020 </p>
-  - align: left
     image: Cagri_Bilgi.png
     image_circular: false # crops the image to make it circular
     more_info: >
