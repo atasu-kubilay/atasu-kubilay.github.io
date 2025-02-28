@@ -12,12 +12,12 @@ profile:
   image: Kubilay_Atasu.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
-    <p> <a href='https://map.tudelftcampus.nl/poi/wiskunde-informatica-ewi/'> Building 28</a>, Room 1.E180 </p>
+    <p> <a href='https://map.tudelftcampus.nl/poi/wiskunde-informatica-ewi/'> Building 28</a>, Room 1.E.180 </p>
     <p> Van Mourik Broekmanweg 6 </p>
     <p> 2628 XE Delft, Netherlands </p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+#selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 

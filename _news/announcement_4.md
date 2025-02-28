@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-01 00:00:00-0400
+date: 2025-03-01 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Open <a href="https://careers.tudelft.nl/job/Delft-PhD-Position-Scalable-Graph-Learning-2628-CD/804744902/"> PhD position </a> in my research group! Application deadline is October 29, 2024!
+Open postdoctoral researcher position in my research group! Please contact me if you are interested!
