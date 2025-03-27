@@ -31,8 +31,12 @@ Notably, I led a global IBM Research Challenge on scalable and automated graph m
 This effort led to new AI-powered real-time transaction monitoring capabilities in IBM's mainframe software solutions (specifically, in the AI Toolkit for IBM Z and LinuxOne) 
 as well as an IBM Outstanding Technical Accomplishment Award in December 2023.
 
-While with IBM Research -- Zurich, I also taught postgraduate courses at the University of Tübingen and at the Sabanci University, Istanbul. 
-Furthermore, I served in the technical program committees or organizing committees of more than 50 scientific conferences and co-chaired two (IEEE ASAP 2013 and IEEE ASAP 2014 conferences). 
+My earlier work at IBM focused on design of hardware accelerators and compilers for hardware accelerators as well as development of hardware-accelerated solutions. 
+Notably, I contributed to the design and development of the pattern-matching engine of <a href='assets/img/PowerEN.jpg'> IBM PowerEN </a> (Power Edge-of-Network) processor, which enabled deep inspection of network packets at wire-speeds. 
+In addition, I led the development of hardware-accelerated <a href='https://research.ece.cmu.edu/~calcm/carl/lib/exe/fetch.php?media=carl15-atasu.pdf'> text analytics </a> and similarity search solutions, achieving 10- to 1000-fold performance improvements.  
+
+While with IBM Research -- Zurich, I also taught at the University of Tübingen and did a sabbatical at the Sabanci University, Istanbul. 
+Furthermore, I served in the technical program committees or organizing committees of more than 50 scientific conferences. I was the program chair of IEEE ASAP 2013 conference and the general chair of the IEEE ASAP 2014 conference. 
 
 Before joining IBM Research -- Zurich, I was with the École Polytechnique Fédérale de Lausanne (2002--2003), Bogazici University Istanbul (2003--2005), and Imperial College London (2005--2008), where I worked on design automation of application-specific microprocessors, and obtained two best paper awards for this work (at the DAC 2003 and at the IEEE ASAP 2008 conferences).  
 
