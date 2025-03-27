@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Invited talk at the Delft Fintech Summit 2024!
+title: Invited talk at the Delft Fintech Summit 2024 on Using ML for a Resilient Financial System!
 date: 2024-06-26 00:00:00-0400
 inline: false
 related_posts: false

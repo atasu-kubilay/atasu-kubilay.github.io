@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited talk at the <a href="https://logams.github.io"> LogAMS 2024</a> meetup in Amsterdam!
+Invited talk at the <a href="https://logams.github.io"> LogAMS 2024</a> meetup on Graph Machine Learning for Financial Crime Analysis!
