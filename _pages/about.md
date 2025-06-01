@@ -38,5 +38,5 @@ In addition, I led the development of hardware-accelerated <a href='https://rese
 While with IBM Research -- Zurich, I also taught at the University of Tübingen and did a sabbatical at the Sabanci University, Istanbul. 
 Furthermore, I served in the technical program committees or organizing committees of more than 50 scientific conferences. I was the program chair of IEEE ASAP 2013 conference and the general chair of the IEEE ASAP 2014 conference. 
 
-Before joining IBM Research -- Zurich, I was with the École Polytechnique Fédérale de Lausanne (2002--2003), Bogazici University Istanbul (2003--2005), and Imperial College London (2005--2008), where I worked on design automation of application-specific microprocessors, and obtained two best paper awards for this work (at the DAC 2003 and at the IEEE ASAP 2008 conferences).  
+Before joining IBM Research -- Zurich, I was with the École Polytechnique Fédérale de Lausanne (2002--2003), Bogazici University Istanbul (2003--2005), and Imperial College London (2005--2008), where I worked on design automation of application-specific microprocessors, and obtained two best paper awards for this work (at the <a href='https://www.dac.com/About/Conference-Archive/40th-DAC-2003'> DAC 2003 </a> and at the <a href='http://asap2010.inria.fr/attic/asap2008/'> IEEE ASAP 2008 </a> conferences).  
 
