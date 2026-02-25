@@ -17,22 +17,43 @@ profiles:
       <p>Assoc. Prof. Kubilay Atasu</p>
       <p>Group Leader</p>
   - align: left
-    image: Cagri_Bilgi.png
-    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> <a href='https://scholar.google.com/citations?user=pS_d8sUAAAAJ'> Dr. Rui Wang </a> </p> <br>
+      <p>Postdoc since January 2026</p> <br>
+      <p>PhD in CS, TU Delft, 2024 </p>
+  - align: left
     more_info: >
       <p> <a href='https://hcagri.github.io'> Halil Çağrı Bilgi </a> </p> <br>
       <p>PhD student since June 2024</p> <br>
       <p>MSc in EEE, Middle East Technical University, 2024 </p>
   - align: left
-    image: Lourens_Touwen.png
-    image_circular: false # crops the image to make it circular
     more_info: >
-      <p> <a href='https://www.lourenstouwen.com'> Lourens Touwen </a> </p> <br>
-      <p>PhD student since March 2025</p> <br>
-      <p>MSc in Applied Mathematics, TU Delft, 2024 </p>
+      <p> Andrea Li</p> <br>
+      <p>MSc student in DSAIT</p> <br>
+      <p>Subgraph Heterogeneity in Federated GNNs</p> <br>
   - align: left
     more_info: >
-      <p>Keyvan Khalili</p> <br>
-      <p>MSc student in Computer & Embedded Systems Engineering</p> <br>
-      <p>Supervised jointly with Prof. H. Peter Hofstee</p>
+      <p>Danae Savvidi</p> <br>
+      <p>MSc student in DSAIT</p> <br>
+      <p>Temporal GNNs for Financial Crime Analysis</p> <br>
+  - align: left
+    more_info: >
+      <p>Dennis Heijmans</p> <br>
+      <p>MSc student in CS</p> <br>
+      <p>Adversarial Robustness of Multigraph Neural Networks</p> <br>
+  - align: left
+    more_info: >
+      <p> Rodrigo Alvarez Lucendo</p> <br>
+      <p>MSc student in CS</p> <br>
+      <p>Scaling Laws for Memorization in LLMs </p> <br>
+  - align: left
+    more_info: >
+      <p>Selin Ceydeli</p> <br>
+      <p>MSc student in CS</p> <br>
+      <p>Privacy-Preserving Subgraph Federated Learning Systems</p> <br>
+  - align: left
+    more_info: >
+      <p>Zeryab Alam</p> <br>
+      <p>MSc student in CS</p> <br>
+      <p>Foundation Models for Geothermal Energy Systems</p> <br>
 ---
