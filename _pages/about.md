@@ -24,16 +24,14 @@ social: true # includes social icons at the bottom of the page
 I am an Associate Professor at the Delft University of Technology, where I am affiliated with the Data Intensive Systems Section of the Department of Software Technology.
 
 I am a Senior Member of IEEE and the principal investigator of a <a href='https://data.snf.ch/grants/grant/212158'> Swiss National Science Foundation (SNSF) project </a> aimed at building scalable graph ML solutions for financial crime analysis. 
-My research interests include graph algorithms, graph neural networks, parallel computing, hardware acceleration, and their applications to real-world problems.
+My research interests include graph algorithms, graph neural networks, parallel computing, and hardware acceleration.
 
-Before joining TU Delft in January 2024, I was a Senior Research Scientist at <a href='https://research.ibm.com/labs/zurich'> IBM Research -- Zurich </a>, where I spent 15 years. 
-Notably, I led a global IBM Research Challenge on scalable and automated graph machine learning from 2021 to 2023. 
-This effort led to new AI-powered real-time transaction monitoring capabilities in IBM's mainframe software solutions (specifically, in the AI Toolkit for IBM Z and LinuxOne) 
-as well as an IBM Outstanding Technical Accomplishment Award in December 2023.
+Before joining TU Delft, I was a Senior Research Scientist at <a href='https://research.ibm.com/labs/zurich'> IBM Research -- Zurich </a>, where I spent 15 years. 
+Notably, I led a global IBM Research Challenge on scalable and automated graph machine learning from 2021 to 2023, which led to new AI-powered real-time transaction monitoring capabilities in IBM's mainframe software solutions (specifically, in the AI Toolkit for IBM Z and LinuxOne) as well as an IBM Outstanding Technical Accomplishment Award.
 
-My earlier work at IBM focused on design of hardware accelerators and compilers for hardware accelerators as well as development of hardware-accelerated solutions. 
-Notably, I contributed to the design and development of the pattern-matching engine of <a href='assets/img/PowerEN.jpg'> IBM PowerEN </a> (Power Edge-of-Network) processor, which enabled deep inspection of network packets at wire-speeds. 
-In addition, I led the development of hardware-accelerated <a href='https://research.ece.cmu.edu/~calcm/carl/lib/exe/fetch.php?media=carl15-atasu.pdf'> text analytics </a> and similarity search solutions, achieving 10- to 1000-fold performance improvements.  
+My earlier work at IBM focused on design of hardware accelerators and compilers for hardware accelerators. 
+Notably, I contributed to the design and development of the pattern-matching engine of <a href='assets/img/PowerEN.jpg'> IBM PowerEN </a> (Power Edge-of-Network) processor for deep packet inspection. 
+In addition, I led the development of hardware-accelerated <a href='https://research.ece.cmu.edu/~calcm/carl/lib/exe/fetch.php?media=carl15-atasu.pdf'> text analytics </a> and <a href='https://indico.truba.gov.tr/event/6/contributions/56/attachments/21/101/KubilayAtasu_EuroCC_12.02.2021_Part1_SimilaritySearch.pdf'> semantic similarity search </a> solutions, achieving 10- to 1000-fold performance improvements.  
 
 While with IBM Research -- Zurich, I also taught at the University of Tübingen and did a sabbatical at the Sabanci University, Istanbul. 
 Furthermore, I served in the technical program committees or organizing committees of more than 50 scientific conferences. I was the program chair of IEEE ASAP 2013 conference and the general chair of the IEEE ASAP 2014 conference. 
