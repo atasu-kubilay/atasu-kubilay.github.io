@@ -30,30 +30,10 @@ profiles:
     more_info: >
       <p> Andrea Li</p> <br>
       <p>MSc student in DSAIT</p> <br>
-      <p>Subgraph Heterogeneity in Federated GNNs</p> <br>
+      <p>Subgraph Heterogeneity in Federated Multigraph Neural Networks</p> <br>
   - align: left
     more_info: >
       <p>Danae Savvidi</p> <br>
       <p>MSc student in DSAIT</p> <br>
-      <p>Temporal GNNs for Financial Crime Analysis</p> <br>
-  - align: left
-    more_info: >
-      <p>Dennis Heijmans</p> <br>
-      <p>MSc student in CS</p> <br>
-      <p>Adversarial Robustness of Multigraph Neural Networks</p> <br>
-  - align: left
-    more_info: >
-      <p> Rodrigo Alvarez Lucendo</p> <br>
-      <p>MSc student in CS</p> <br>
-      <p>Scaling Laws for Memorization in LLMs </p> <br>
-  - align: left
-    more_info: >
-      <p>Selin Ceydeli</p> <br>
-      <p>MSc student in CS</p> <br>
-      <p>Privacy-Preserving Subgraph Federated Learning Systems</p> <br>
-  - align: left
-    more_info: >
-      <p>Zeryab Alam</p> <br>
-      <p>MSc student in CS</p> <br>
-      <p>Foundation Models for Geothermal Energy Systems</p> <br>
+      <p>Temporal-Context Enrichment for Financial Crime Detection</p> <br>
 ---
