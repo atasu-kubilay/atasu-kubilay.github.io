@@ -20,20 +20,20 @@ profiles:
     more_info: >
       <p> <a href='https://scholar.google.com/citations?user=pS_d8sUAAAAJ'> Dr. Rui Wang </a> </p> <br>
       <p>Postdoc since January 2026</p> <br>
-      <p>PhD in CS, TU Delft, 2024 </p>
+      <p>PhD in CS, TU Delft</p>
   - align: left
     more_info: >
-      <p> <a href='https://hcagri.github.io'> Halil Çağrı Bilgi </a> </p> <br>
+      <p> <a href='https://scholar.google.com/citations?user=4SxijgcAAAAJ'> Mingkun Yang </a> </p> <br>
+      <p>Postdoc since October 2026</p> <br>
+      <p>PhD in CS, TU Delft</p>
+  - align: left
+    more_info: >
+      <p> <a href='https://scholar.google.com/citations?user=h7RJWfIAAAAJ'> Halil Çağrı Bilgi </a> </p> <br>
       <p>PhD student since June 2024</p> <br>
-      <p>MSc in EEE, Middle East Technical University, 2024 </p>
+      <p>MSc in EEE, Middle East Technical University</p>
   - align: left
     more_info: >
       <p> Andrea Li</p> <br>
       <p>MSc student in DSAIT</p> <br>
-      <p>Subgraph Heterogeneity in Federated Multigraph Neural Networks</p> <br>
-  - align: left
-    more_info: >
-      <p>Danae Savvidi</p> <br>
-      <p>MSc student in DSAIT</p> <br>
-      <p>Temporal-Context Enrichment for Financial Crime Detection</p> <br>
+      <p>Personalized Task Head Aggregation for Federated Graph Learning</p> <br>
 ---

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href='https://scholar.google.com/citations?user=4SxijgcAAAAJ'> Dr. Mingkun Yang  </a> joins my group as a Postdoctoral Researcher!
+<a href='https://scholar.google.com/citations?user=4SxijgcAAAAJ'> Mingkun Yang  </a> joins my group as a Postdoctoral Researcher!
