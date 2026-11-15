@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Danae Savvidi's paper on Temporal-Context Edge Enrichment for Financial Crime Detection accepted to <a href="https://icaif2026.org"> ICAIF 2026 </a>!
+Danae Savvidi's <a href="https://arxiv.org/abs/2610.29667"> paper </a> on Leveraging Time-Series Foundation Models for Financial Crime Detection accepted to <a href="https://icaif2026.org"> ICAIF 2026 </a>!

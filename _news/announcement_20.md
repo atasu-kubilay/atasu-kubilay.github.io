@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dennis Heijman's paper on Towards Adversarially Robust Multigraph Neural Networks for Financial Crime Analysis  accepted to <a href="https://logconference.org"> LoG 2026 </a>!
+Dennis Heijman's <a href="https://arxiv.org/abs/2610.31718"> paper </a> on Adversarially Robust Multigraph Neural Networks for Financial Crime Analysis  accepted to <a href="https://logconference.org"> LoG 2026 </a>!
